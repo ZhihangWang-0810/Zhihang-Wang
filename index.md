@@ -14,4 +14,4 @@ Strong coupling within plasmonic lattices
 
 ### Publications
 1. Z. Wang, J. Chen, F. Lv et al., Strong coupling between in-plane photonic modes and out-of-plane plasmonic modes in 2D metal–dielectric-metal nanocylinder arrays, Optics
-Communications (2021). <https://doi.org/10.1016/j.optcom.2021.126908>
+Communications (2021). <https://www.sciencedirect.com/science/article/pii/S0030401821001589>
