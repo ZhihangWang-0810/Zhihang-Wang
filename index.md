@@ -1,15 +1,14 @@
-### 个人信息
+### Personal Imformation
 
-#### 姓名： 王智航
-#### 学历： 在读硕士生
-#### 学校： 哈尔滨工程大学
-#### 邮箱： wangzhihang@hrbeu.edu.cn
-#### 地址： 黑龙江省哈尔滨市南岗区南通大街145号哈尔滨工程大学
+#### NAME： Zhihang Wang
+#### DEGREE： Master Degree Candidate in Optics Engineering
+#### INSTITUTION： Harbin Engineering Univ. (HEU)
+#### MAIL： wangzhihang@hrbeu.edu.cn
 
-### 最新消息
+### News
 
-### 研究方向
+### Research
 
-### 荣誉奖励
+### Award and Honor
 
-### 项目研究
+### Publications
